@@ -1,28 +1,25 @@
-_This document is intended to be a template for working groups established under SDDI, to be used as the README.md file in its repository. All items in italics are descriptions of what context should be there; it is intended to be replaced by content._
+# Framework of DEIA best practices
 
-_The intention is that each WG has its own GitHub repo under the [SDDI organization](https://github.com/sddiproject)._
-
-# _Working group name_
-
-_Describe the purpose of the group in no more that 4-5 sentences._
-
-_Goals are the distinct outcomes that is to be anticipated from the working group, serving as a method for validating activities._
+The purpose of this group is to make evidence-based recommendations for DEIA practices in open source. We take a look at what DEIA practices have been tried and whether it has worked or not. We follow an evidence based approach to back-up our recommendations with research. We explicitly incorporate Activation (the A in DEIA) in our approach to move beyond the conversation to drive lasting impact.
 
 Goals of the WG are:
 
-1. _goal 1_
-2. ...
-
-_Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time._
+1. Compile DEIA best practices in open source, structured in a framework
+2. Conduct a survey and interviews, to evaluate and complete the framework of DEI best practices in open source
 
 Non-goals of the WG are:
 
-1. _non goal 1_
-2. ...
+1. Assess the state of DEIA in open source
+2. Discuss the current problems concerning DEIA in open source
+3. Coach an open source project on their DEIA practices
 
 ## Deliverables
 
-_provide a list of planned deliverables, or links to the deliverables. A best practice is to have a directory named [deliverables](deliverables) in the repo for hosting and managing deliverables._
+1. Survey results that show what DEIA practices work and don’t work
+2. Create a resource for open source to learn about DEIA best practices (and what not to try)
+3. Publish an academic research paper
+4. Facilitate popularizing our findings
+5. Create a digital research library
 
 ## Communication
 
@@ -31,19 +28,12 @@ This WG communicates on the following channels:
 - _link to mailing list_
 - _slack channel_
 - _any other channels_
-...
 
 ## Meetings
 
-See the [SDDI public calendar](https://lists.sddiproject.org/calendar). This WG meets _meeting day/time and frequency_. 
+See the [SDDI public calendar](https://lists.sddiproject.org/calendar). This WG meets intermittently as needed. Meetings will be announced on the SDDI mailing list.
 
-_provide the conference call details_
-
-## In-person meetings
-
-_list if applicable, or skip if not_
 
 ## Meeting notes
 
-Meeting notes, recordings, and any presentations made during WG meetings are available [here](meetings).
-
+Meeting notes, recordings, and any presentations made during WG meetings are available [here](https://docs.google.com/document/d/1P6eIna3e7f_OcqVjVWV2wb2qtMqgC-vxK52i9nMJ2oE/edit#).
